@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="080dc063-3e9a-4bb8-ae10-3fdeba2345f6" name="更改" comment="" />
+    <list default="true" id="080dc063-3e9a-4bb8-ae10-3fdeba2345f6" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ave-mujica.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/ave-mujica.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/band-list.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/band-list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/info/character.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/info/character.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/info/elevator.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/info/elevator.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/info/emoji.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/info/emoji.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/info/json.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/info/json.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/info/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/info/model.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/info/note.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/info/note.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/info/software.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/info/software.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livehouse-around.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/livehouse-around.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/really-ugly-json.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/really-ugly-json.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/character-1",
+    "git-widget-placeholder": "正在合并 feature/emoji-2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
