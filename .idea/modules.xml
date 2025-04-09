@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BUAASE2025-TeamVersionControl.iml" filepath="$PROJECT_DIR$/.idea/BUAASE2025-TeamVersionControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TeamVersionCtrl.iml" filepath="$PROJECT_DIR$/.idea/TeamVersionCtrl.iml" />
     </modules>
   </component>
 </project>
